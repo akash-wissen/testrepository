@@ -1,6 +1,7 @@
 public class Hokage{
 	public static void main(String args[]){
-	String data = "Naruto Uzumaki";
+	// Original data will be Kakashi Hatake
+	String data = "Kakashi Hatake";
 	String data2 = "Konoha";
 }
 }
