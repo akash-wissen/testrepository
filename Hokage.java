@@ -1,6 +1,6 @@
 public class Hokage{
 	public static void main(String args[]){
-	String data = "Hokage";
+	String data = "Sasuke Uchiha";
 	String data2 = "Konoha";
 }
 }
